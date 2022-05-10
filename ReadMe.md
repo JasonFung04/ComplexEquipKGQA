@@ -24,3 +24,12 @@
 
 ### Third, run python files
 #### code: python local.py
+
+## what we have done?
+
+### 1. create a python model to process the question data and get an output.
+### 2. create a api based on flask, let the python model response when giving the model a question and user id, open the api, and then the front-end website will show the reponse of the question.
+
+## what we need to do?
+
+### 1. try to use the front-end website to send the question to the model, and let the model receive the question, so that the model can response the question and show the response in the fron-end website. （We can try it locally，and when we succuss， we can use push function to update the code in the Github.

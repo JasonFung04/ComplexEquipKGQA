@@ -20,6 +20,7 @@
 #### 11.pip install thefuzz
 #### 12.pip install pickle
 #### 13.pip install numpy
+#### 14.pip install flask
 
 ### Third, run python files
 #### code: python local.py

@@ -1,0 +1,176 @@
+hi,greet
+你好呀,greet
+哈喽,greet
+hello,greet
+早上好呀,greet
+晚上好,greet
+下午好啊,greet
+很高心见到你,greet
+可以问你问题吗,greet
+你有时间吗,greet
+有人吗,greet
+打扰了,greet
+hai,greet
+嗨,greet
+hey,greet
+嘿,greet
+嘿嘿嘿,greet
+morning,greet
+nihao,greet
+你好啊,greet
+打扰一下,greet
+有人工服务吗,greet
+现在营业吗,greet
+你有药吗,greet
+您好,greet
+有个问题请教,greet
+你好,greet
+能问诊吗,greet
+现在能看病吗,greet
+现在有医生吗,greet
+有人值班吗,greet
+good morning,greet
+good evening,greet
+good afternoon,greet
+good night,greet
+what up,greet
+hey men,greet
+再见,goodbye
+goodbye,goodbye
+bye,goodbye
+再见咯,goodbye
+再见啦，下次聊,goodbye
+回见,goodbye
+拜拜,goodbye
+拜拜咯,goodbye
+先这样吧,goodbye
+不聊了,goodbye
+我去忙了,goodbye
+忙事情去了,goodbye
+下次见,goodbye
+bye~,goodbye
+不用了，谢谢,deny
+不是,deny
+搞错了,deny
+不问了,deny
+答错了,deny
+不是这样啊,deny
+你搞错了,deny
+不可以,deny
+不能,deny
+不对,deny
+不行,deny
+not,deny
+no,deny
+你错了,deny
+不是这样的,deny
+你误会了,deny
+真不是这个意思,deny
+不是这样的,deny
+猜错了,deny
+你是谁,isbot
+怎么称呼,isbot
+你是人吗？,isbot
+你是人类吗？,isbot
+你是机器人吗,isbot
+你是人还是机器人,isbot
+你叫什么名字啊,isbot
+你的名字？,isbot
+你是？,isbot
+怎么称呼你啊？,isbot
+你是哪位,isbot
+你的名字是什么,isbot
+你叫什么,isbot
+你叫什么啊,isbot
+你是谁呢,isbot
+谁啊,isbot
+谁呢,isbot
+睡在,isbot
+谁在呢,isbot
+你是哪个？？,isbot
+what your name?,isbot
+机器人？,isbot
+报上名来,isbot
+来者何人,isbot
+你是小智吗,isbot
+你是谁,isbot
+你到底是哪个,isbot
+nishishui,isbot
+你是谁啊？,isbot
+who are you,isbot
+是的,accept
+对的,accept
+是啊,accept
+你怎么知道,accept
+你猜对了,accept
+bingo,accept
+真厉害，这都知道,accept
+厉害呀,accept
+嗯嗯,accept
+嗯,accept
+可以,accept
+不错,accept
+好,accept
+好的,accept
+点赞,accept
+对了,accept
+听你的,accept
+说得对,accept
+shia,accept
+是啊,accept
+是,accept
+yes,accept
+可以的,accept
+对啊,accept
+很好,accept
+好啊,accept
+是啊,accept
+是的呢,accept
+是这样的,accept
+ok,accept
+对,accept
+行,accept
+请问石油钻井泵出现了什么问题,Knowledge Inquiry
+请问石油钻井泵漏油了怎么办,Knowledge Inquiry
+请问如何检查石油钻井泵,Knowledge Inquiry
+请问如何保养石油钻井泵,Knowledge Inquiry
+请问石油钻井泵裂开了怎么办,Knowledge Inquiry
+石油钻井泵噪音消失了怎么办,Knowledge Inquiry
+石油钻井泵噪音很大怎么办,Knowledge Inquiry
+石油钻井泵温度过低怎么办,Knowledge Inquiry
+石油钻井泵温度很高怎么办,Knowledge Inquiry
+石油钻井泵不动了怎么办,Knowledge Inquiry
+给我石油钻井泵的安装指引,Knowledge Inquiry
+怎么排出空气包充气,Knowledge Inquiry
+怎么排出空气包气囊更换,Knowledge Inquiry
+动力端积油过多，怎么去油,Knowledge Inquiry
+空气包充气注意事项有什么,Knowledge Inquiry
+请问石油钻井泵漏油了是为什么,Knowledge Inquiry
+石油钻井泵噪音很小是为什么,Knowledge Inquiry
+石油钻井泵活塞用哪个,Knowledge Inquiry
+石油钻井泵齿轮润滑油用哪个,Knowledge Inquiry
+动力端出现什么故障了吗,Knowledge Inquiry
+液力端出现什么故障了吗,Knowledge Inquiry
+石油钻井泵有泄漏怎么办,Knowledge Inquiry
+石油钻井泵多久保养一次,Knowledge Inquiry
+请问齿轮磨损情况如何,Knowledge Inquiry
+柴油机负荷多少,Knowledge Inquiry
+压力表变化很大是为什么,Knowledge Inquiry
+缸套处为什么有敲击声,Knowledge Inquiry
+缸套处有敲击声怎么办,Knowledge Inquiry
+压力表下降怎么办,Knowledge Inquiry
+压力表上升怎么办,Knowledge Inquiry
+轴承好热，怎么办,Knowledge Inquiry
+现在哪些轴承有磨损,Knowledge Inquiry
+钻井平台排出液体是否正常,Knowledge Inquiry
+无法排出空气怎么办,Knowledge Inquiry
+昨天石油钻井泵运行状况怎么样,Knowledge Inquiry
+前天石油钻井泵运行状况怎么样,Knowledge Inquiry
+上周石油钻井泵运行状况怎么样,Knowledge Inquiry
+这个月石油钻井泵运行状况怎么样,Knowledge Inquiry
+早上石油钻井泵运行状况怎么样,Knowledge Inquiry
+下午石油钻井泵运行状况怎么样,Knowledge Inquiry
+昨天压力表示数变化大吗,Knowledge Inquiry
+昨天压力表示数值是多少,Knowledge Inquiry
+上紧缸盖与阀盖前要多久涂润滑一次,Knowledge Inquiry
+排泄孔盖的丝堵处是否积水,Knowledge Inquiry

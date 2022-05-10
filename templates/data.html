@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<body>
+    <input type = "button" value= "发送数据" onclick = "btnSendData()">
+    <script type="text/javascript" src="https://cdn.bootcdn.net/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>
+        function btnSendData(){
+            var input ={
+                'id':'12333',
+                'question':'哈哈哈哈'
+            
+            };
+            $.ajax({
+                url:'/addquestion',
+                type:'post',
+                contentType:'application/json',
+                data:JSON.stringify(input),
+                success:function(res){
+                    console.log(res);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

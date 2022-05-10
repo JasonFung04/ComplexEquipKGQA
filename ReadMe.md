@@ -1,25 +1,25 @@
-先简单写着 之后用Markdown再编辑好
+#please follow steps of this page to install environment files.
 
-install dependencies(需要得包和环境）
-terminal 中
-创建环境 (ComplexEquipKGQA) python3.6的版本应该都可以:
+## install dependencies
 
-conda create -n ComplexEquipKGQA python==3.6.13
-conda activate ComplexEquipKGQA
+### First, create environment in terminal (ComplexEquipKGQA) 
+#### 1.conda create -n ComplexEquipKGQA python==3.6.13
+#### 2.conda activate ComplexEquipKGQA
 
-pip install itchat
-pip install sanic
-pip install sklearn
-pip install numpy
-pip install -U sanic-cors
-pip install sanic-openapi
-pip install fuzzywuzzy
-pip install xlrd ==1.2.0
-pip install pandas
-pip install jieba
-pip install thefuzz
-pip install pickle
-pip install numpy
+### Second, install packages using pip
+#### 1.pip install itchat
+#### 2.pip install sanic
+#### 3.pip install sklearn
+#### 4..pip install numpy
+#### 5..pip install -U sanic-cors
+#### 6.pip install sanic-openapi
+#### 7.pip install fuzzywuzzy
+#### 8.pip install xlrd ==1.2.0
+#### 9.pip install pandas
+#### 10.pip install jieba
+#### 11.pip install thefuzz
+#### 12.pip install pickle
+#### 13.pip install numpy
 
-运行lacal.py:
-python local.py
+### Third, run python files
+#### code: python local.py
